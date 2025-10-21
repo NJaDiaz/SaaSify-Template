@@ -6,6 +6,7 @@
   --foreground: 0 0 0;       /* Negro */
   --card-background: 229 231 235; /* Gris claro */
   --card-foreground: 23 23 23;      /* Gris muy oscuro */
+  --color-background: blue;
 }
 
 .dark {

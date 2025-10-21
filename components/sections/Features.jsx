@@ -43,7 +43,7 @@ const FeatureCard = ({ feature }) => {
 
   return (
     // El "group" permite que el hover en este div controle los estilos de sus hijos
-    <div className="group relative rounded-2xl transition-all duration-300 hover:-translate-y-1 hover:scale-[1.02]">
+    <div className="group relative rounded-2xl transition-all duration-300 hover:-translate-y-1 hover:scale-[1.02] dark:bg-background">
       
       {/* 1. EL AURA MÁGICA ✨ */}
       {/* Un gradiente radial borroso que aparece en el fondo al hacer hover */}
